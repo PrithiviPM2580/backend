@@ -27,3 +27,24 @@
 3. X-Frame-Options
 4. X-Content-Type-Options
 5. Set-Cookie
+
+## Methods
+
+1. Get
+2. Post
+3. Put
+4. Patch
+5. Delete
+6. Options
+
+## Idempotent vs Non-Idempotant
+
+## Preflight Request
+
+## HTTPStatus
+
+1. 1xx - Information
+2. 2xx - Success
+3. 3xx - Redirection
+4. 4xx - Client Error
+5. 5xx - Server Error
