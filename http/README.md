@@ -48,3 +48,16 @@
 3. 3xx - Redirection
 4. 4xx - Client Error
 5. 5xx - Server Error
+
+## HTTP Caching
+
+## Content Neogation
+
+## Compression - gzip, deflate, br, zstd
+
+## Persistent Connections and Keep-Alive
+
+## Handeling large requests and responses
+
+1. Multipart request (File Upload)
+2. Streaming Response (Real Time Updates)
